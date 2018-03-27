@@ -1,0 +1,31 @@
+{
+  "name": "stockify",
+  "version": "1.0.0",
+  "description": "Stockify is a module for obtaining real time currency exchange rate for any pair of physical currency(e.g. INR) or digital/crypto currency(e.g. bitcoin).",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maverickjoy/stockify.git"
+  },
+  "keywords": [
+    "exchange",
+    "rates",
+    "stock",
+    "digital",
+    "currency",
+    "crypto",
+    "currency",
+    "bitcoin",
+    "currency",
+    "rates"
+  ],
+  "author": "Vikram Singh <mailvikram@email.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maverickjoy/stockify/issues"
+  },
+  "homepage": "https://github.com/maverickjoy/stockify#readme"
+}

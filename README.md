@@ -2,7 +2,7 @@
 
 [![NPM][npm-image]][npm-url] [![MIT][mit-image]][mit-url]
 
-Stockify is a module for obtaining currency exchange rates for physical and digital/crypto currency.
+Stockify is a module for obtaining real time currency exchange rate for any pair of physical currency(e.g. INR) or digital/crypto currency(e.g. bitcoin).
 
 ## Installation
 
