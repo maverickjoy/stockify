@@ -17,11 +17,12 @@ const rate = require("stockify");
 
 // convert function returns a promise
 // Parameters - { from currency(Code A format), to currency(Code A format), Amount(Optional Parameter)}
-rate.convert("INR","USD").then( data => {
+
+rate.convert("INR", "USD").then( data => {
   console.log(JSON.stringify(data, null, 4));
 });
 
-rate.convert("INR","USD",5).then( data => {
+rate.convert("INR", "USD", 5).then( data => {
   console.log(JSON.stringify(data, null, 4));
 });
 
