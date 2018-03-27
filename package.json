@@ -15,12 +15,10 @@
     "rates",
     "stock",
     "digital",
-    "currency",
     "crypto",
     "currency",
     "bitcoin",
-    "currency",
-    "rates"
+    "convertor"
   ],
   "author": "Vikram Singh <mailvikram@email.com>",
   "license": "MIT",

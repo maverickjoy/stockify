@@ -24,9 +24,3 @@ var money = require('stockify');
 ## License
 
 MIT License 2018 © Vikram Singh and [contributors](https://github.com/maverickjoy/stockify/graphs/contributors)
-
-[npm-url]: http://npmjs.org/package/stockify
-[npm-image]: https://badge.fury.io/js/stockify.svg
-
-[mit-image]: https://img.shields.io/badge/license-MIT-blue.svg
-[mit-url]: https://opensource.org/licenses/MIT
