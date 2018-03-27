@@ -18,7 +18,8 @@
     "crypto",
     "currency",
     "bitcoin",
-    "convertor"
+    "convertor",
+    "alphavantage"
   ],
   "author": "Vikram Singh <mailvikram@email.com>",
   "license": "MIT",
