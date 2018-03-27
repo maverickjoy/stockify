@@ -1,6 +1,6 @@
 {
   "name": "stockify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Stockify is a module for obtaining real time currency exchange rate for any pair of physical currency(e.g. INR) or digital/crypto currency(e.g. bitcoin).",
   "main": "lib/index.js",
   "scripts": {
