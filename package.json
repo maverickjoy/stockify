@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/maverickjoy/stockify/issues"
   },
-  "homepage": "https://github.com/maverickjoy/stockify#readme"
+  "homepage": "https://github.com/maverickjoy/stockify#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
 }
