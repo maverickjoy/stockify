@@ -16,7 +16,7 @@ npm install stockify
 const rate = require("stockify");
 
 // convert function returns a promise
-// Parameters - { from currency(Code A format), to currency(Code A format), Amount(Optional Parameter)}
+// Parameters - { from currency(ISO 4217 format), to currency(ISO 4217 format), Amount(Optional Parameter)}
 
 rate.convert("INR", "USD").then( data => {
   console.log(JSON.stringify(data, null, 4));
@@ -31,6 +31,7 @@ rate.convert("INR", "USD", 5).then( data => {
 ## Notes
 
 * It uses `alphavantage`
+* For currency code reference : [wiki link](https://en.wikipedia.org/wiki/ISO_4217#Active_codes)
 
 ## License
 
